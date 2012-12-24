@@ -1,0 +1,3 @@
+A Ruby on Rails site using bootstrap, devise, cancan.  
+
+Tutorial from:  http://railsapps.github.com/tutorial-rails-bootstrap-devise-cancan.html
